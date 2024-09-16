@@ -69,10 +69,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request i
 
 Python 3.x installed on your computer.
 Basic knowledge of Python syntax and programming concepts.
-## 📜 License
-
-This repository is licensed under the MIT License. See the LICENSE file for more details.
-
-## 📧 Contact
-
-If you have any questions or suggestions, feel free to reach out by creating an issue in the repository or contacting me directly via GitHub.
