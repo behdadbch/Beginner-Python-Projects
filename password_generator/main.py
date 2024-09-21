@@ -1,9 +1,4 @@
 
----
-
-### `main.py`
-
-```python
 import random
 import string
 
