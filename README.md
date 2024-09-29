@@ -47,7 +47,7 @@ More projects will be added regularly!
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/python-projects-for-beginners.git
+git clone https://github.com/behdadbch/python-projects-for-beginners.git
 cd python-projects-for-beginners
 Navigate to a Project Folder
 bash
