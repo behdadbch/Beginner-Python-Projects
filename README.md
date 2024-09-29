@@ -73,3 +73,8 @@ Contributions are welcome! Feel free to open an issue or submit a pull request i
 
 Python 3.x installed on your computer.
 Basic knowledge of Python syntax and programming concepts.
+
+
+## Code of Conduct
+
+This project adheres to the Contributor Covenant [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
