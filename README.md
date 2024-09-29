@@ -38,6 +38,10 @@ A program that converts an amount of money from one currency to another using re
 Key Concepts: APIs, JSON handling, user input, arithmetic operations.
 More projects will be added regularly!
 
+### Hangman Game
+   - A classic word-guessing game where the player attempts to guess a secret word one letter at a time.
+   - **Key Concepts**: String manipulation, lists, loops, conditionals, functions, random module.
+
 ## 🚀 Getting Started
 
 Clone the Repository
